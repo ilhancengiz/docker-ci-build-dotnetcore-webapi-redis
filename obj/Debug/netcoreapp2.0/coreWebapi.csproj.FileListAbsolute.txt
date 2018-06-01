@@ -1,0 +1,10 @@
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\obj\Debug\netcoreapp2.0\coreWebapi.csproj.CoreCompileInputs.cache
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\obj\Debug\netcoreapp2.0\coreWebapi.AssemblyInfoInputs.cache
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\obj\Debug\netcoreapp2.0\coreWebapi.AssemblyInfo.cs
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\bin\Debug\netcoreapp2.0\coreWebapi.deps.json
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\bin\Debug\netcoreapp2.0\coreWebapi.runtimeconfig.json
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\bin\Debug\netcoreapp2.0\coreWebapi.runtimeconfig.dev.json
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\bin\Debug\netcoreapp2.0\coreWebapi.dll
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\bin\Debug\netcoreapp2.0\coreWebapi.pdb
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\obj\Debug\netcoreapp2.0\coreWebapi.dll
+D:\PersonalWork\OwnProjects\.NET Playground\CoreTries\coreWebapi\obj\Debug\netcoreapp2.0\coreWebapi.pdb
