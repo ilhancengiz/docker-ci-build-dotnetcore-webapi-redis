@@ -1,0 +1,35 @@
+version: "3.4"
+
+services:
+
+  webapi:
+    build: .
+    ports:
+      - "5091:80"
+    networks:
+      - corenet
+    depends_on:
+      - redis
+    deploy:
+      replicas: 2
+      update_config:
+        parallelism: 2
+      restart_policy:
+        condition: on-failure
+
+  redis:
+    image: redis:alpine
+    ports:
+      - "6379"
+    networks:
+      - corenet
+    deploy:
+      replicas: 3
+      update_config:
+        parallelism: 2
+        delay: 10s
+      restart_policy:
+        condition: on-failure
+
+networks:
+  corenet:
