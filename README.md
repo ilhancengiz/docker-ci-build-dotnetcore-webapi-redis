@@ -8,10 +8,12 @@ Wanna Try ?
  
  2- Create a new instance to play with
  
- 3- Clone this repo to instance
+ 3- Clone this repo to instance (git clone https://github.com/ilhancengiz/dotnetcore-webapi-redis.git)
  
- 4- Run below docker commands
+ 4- Navigate to project folder (cd dotnetcore-webapi-redis/)
  
- 5- Check instance's 5091 port link with /api/values added.
+ 5- Run "docker-compose -d up" command
  
- 6- Congrats!! You're running a ASP.NET Core Wep API project with Redis in Docker Containers on linux host :)
+ 6- Check instance's 5091 port link with /api/values added.
+ 
+ 7- Congrats!! You're running a ASP.NET Core Wep API project with Redis in Docker Containers on linux host :)
