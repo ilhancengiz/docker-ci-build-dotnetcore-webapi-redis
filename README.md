@@ -12,7 +12,9 @@ Wanna Try ?
  
  4- Navigate to project folder (cd dotnetcore-webapi-redis/)
  
- 5- Run "docker-compose -d up" command
+ 5- Run "docker-compose create" command to create services (give docker a few sec to build image)
+ 
+ 5- Run "docker-compose up -d" command to start services
  
  6- Check instance's 5091 port link with /api/values added.
  
